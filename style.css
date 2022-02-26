@@ -6,6 +6,8 @@
 
 body {
     background-color: #d9dcd6;
+    
+
 }
 
 header {
@@ -71,6 +73,7 @@ p {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+    
 }
 
 .benefits {
@@ -195,4 +198,8 @@ footer {
 
 .footer h2 {
     font-size: 20px;
+}
+
+@media screen {
+    
 }
